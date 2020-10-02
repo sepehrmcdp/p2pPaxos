@@ -17,5 +17,5 @@ nid &nbsp;&nbsp; delay
 nid &nbsp;&nbsp; delay   
 ...
 
-Size of network is number of nodes. Lines 2-4 must be given for each node. Line 2 contains timeouts for 3 phases of consensus. Next line will contain links to other peers in network and the link delay. After all links are in, next node can be defined simillarly. Input ends with entering empty line.
+Size of network is number of nodes. Lines 2-4 must be given for each node. Line 2 contains timeouts for 3 phases of consensus. Following lines will contain links to other peers in network and the link delay. After all links are in, next node can be defined simillarly. Input ends with entering empty line.
 
