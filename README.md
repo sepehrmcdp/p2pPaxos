@@ -11,10 +11,10 @@ In second section takes the network graph as input to start simulation. Uncommen
 
 ## Input format should be:
 
-<size_of_network>
-<nid> <timeout1> <timeout2> <timeout3>
-<nid> <delay>
-<nid> <delay>
+<size_of_network> 
+<nid> <timeout1> <timeout2> <timeout3> 
+<nid> <delay> 
+<nid> <delay> 
  ...
 
 Size of network is number of nodes. Lines 2-4 must be given for each node. Line 2 contains timeouts for 3 phases of consensus. Next line will contain links to other peers in network and the link delay. After all links are in, next node can be defined simillarly. Input ends with entering empty line.
