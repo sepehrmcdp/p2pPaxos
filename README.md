@@ -9,7 +9,7 @@ https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple
 
 Second section takes the network graph as input to start simulation. Uncomment net_graph line to see a simulation of sample given network.
 
-## Input format should be:
+### Input format should be:
 
 size_of_network  
 nid &nbsp;&nbsp; timeout1 &nbsp;&nbsp; timeout2 &nbsp;&nbsp; timeout3   
