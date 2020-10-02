@@ -7,7 +7,7 @@ Each node has methods for sending and receiveing appropriate messages. Each node
 for guide to paxos check "Paxos made simple" by Leslie Lamport:  
 https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf
 
-In second section takes the network graph as input to start simulation. Uncomment net_graph line to see a simulation of sample given network.
+Second section takes the network graph as input to start simulation. Uncomment net_graph line to see a simulation of sample given network.
 
 ## Input format should be:
 
