@@ -13,7 +13,7 @@ In second section takes the network graph as input to start simulation. Uncommen
 
 size_of_network  
 nid timeout1 timeout2 timeout3   
-nid delay   
+nid \t delay   
 nid delay   
 ...
 
