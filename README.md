@@ -2,8 +2,8 @@
 Demonstration of Paxos consensus protocol between distributed peers.
 
 How it works:
-Each node in network is instance of Node class. Connections between peers are made by NodeConnection class.
-Each node has methods for sending and receiveing appropriate messages. Each node will run a NodeManager thread which manages node's participation in consensus in real-time.
+Each node in network is instance of Node class. Connections between peers are made by NodeConnection class.  
+Each node has methods for sending and receiveing appropriate messages. Each node will run a NodeManager thread which manages node's participation in consensus in real-time.  
 for guide to paxos check "Paxos made simple" by Leslie Lamport:
 https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf
 
